@@ -20,10 +20,10 @@ this is my personal repository <Dany Pinto>
 
 
 
-Exercises # all the scrips go here
+Exercises: all the scrips go here
 
 
 
 
 
-Resources # all resources 
+Resources: all resources 
