@@ -1,7 +1,6 @@
 #!/bin/bash
 echo
 echo ### Network Tool ###
-echo
 echo "escolha um numero"
 echo "1) check network interface information"
 echo "2) ping a host"
