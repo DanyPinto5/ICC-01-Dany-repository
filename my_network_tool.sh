@@ -37,7 +37,7 @@ case $numero in
 	;;
 	"6")
 		echo "exit"
-	;;
+	;
 	esac
 
 
