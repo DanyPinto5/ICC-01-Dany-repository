@@ -1,4 +1,4 @@
-chmod +x hello.sh
+
 
 echo "enter your name:$name"
 
