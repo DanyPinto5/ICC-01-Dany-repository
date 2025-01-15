@@ -33,3 +33,6 @@ for host in nm.all_hosts():
         file.write(f"Estado: {nm[host].state()}\n")
 
 
+# ----------------------------------------
+# |          Script by Dcman             |
+# ----------------------------------------
