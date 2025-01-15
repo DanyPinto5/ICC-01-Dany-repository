@@ -10,6 +10,6 @@ echo "$current_date_time - $username: $custom_message" >> "$log_file"
 echo "this will be appended to the file" >> user_activity_log.txt
 
 
-# ----------------------------------------
-# |          Script by Dcman             |
-# ----------------------------------------
+###########################################
+#|      Script created by Dcman          |#
+###########################################
