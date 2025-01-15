@@ -1,0 +1,9 @@
+
+Scanning 192.168.1.1/24
+
+IP/Host: NOSdrive (192.168.1.1) - State: Up
+IP/Host: M2103K19G (192.168.1.3) - State: Up
+IP/Host: TL-WPA4220 (192.168.1.194) - State: Up
+IP/Host: A54-de-Antonio (192.168.1.202) - State: Up
+IP/Host: A55-de-Silvina (192.168.1.204) - State: Up
+
