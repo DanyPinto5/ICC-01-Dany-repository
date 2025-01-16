@@ -1,5 +1,5 @@
 import subprocess
-
+#ask to ip and CIDR
 network_range = input("Please, Insert IP and CIDR block: ")
 
 output_file = "customtool.txt"
